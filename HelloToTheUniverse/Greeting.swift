@@ -22,6 +22,11 @@ class Greeting {
     }
     
     
-  
+  var favoritecharacter = "Amanda Pichardo"
+    
+    
+    
+    let ultimatefavoritecharacter = "amanda pichardo"
+    
 }
    
